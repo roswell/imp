@@ -12,6 +12,8 @@ install:
   - git clone https://github.com/fukamachi/cl-coveralls ~/lisp/cl-coveralls
   - git clone https://github.com/ceramic/copy-directory ~/lisp/copy-directory
   - git clone https://github.com/roswell/trivial-msi ~/lisp/trivial-msi
+  - git clone https://github.com/eudoxia0/path-parse ~/lisp/path-parse
+  - git clone https://github.com/eudoxia0/which ~/lisp/which
 
 script:
   - cl -l fiveam
