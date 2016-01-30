@@ -1,5 +1,7 @@
 # Imp
 
+[![Build Status](https://travis-ci.org/roswell/imp.svg?branch=master)](https://travis-ci.org/roswell/imp)
+
 A Lisp implementation downloader and manager.
 
 # Overview
